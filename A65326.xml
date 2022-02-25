@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The way how a religious correspondencie may be procured and maintained amongst the churches For their mutuall safety, and the advancement of the gospel at home and abroad.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65326</idno>
+            <idno type="STC">Wing W1161A</idno>
+            <idno type="STC">STC 25130</idno>
+            <idno type="STC">ESTC S102123</idno>
+            <idno type="EEBO-CITATION">99837923</idno>
+            <idno type="PROQUEST">99837923</idno>
+            <idno type="VID">2270</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65326)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 2270)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1045:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The way how a religious correspondencie may be procured and maintained amongst the churches For their mutuall safety, and the advancement of the gospel at home and abroad.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>c. 1655?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from STC; Wing gives date: [1653?].</note>
+                  <note>Print faded and copy has print show-through; pages stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian union --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:2270:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <pb n="1" facs="tcp:2270:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>The way how a Religious Correſpondencie may be procured and maintained amongſt the Churches. For their mutuall ſafety, and the advancement of the Goſpel at home and abroad.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F it be granted, as it is an undeniable truth, that the Godly party of this Nation is more deeply engaged to endevour a Religious Correſpondency with For<g ref="char:EOLhyphen"/>reign Proteſtants then any other people in all the World; then it will follow, that they are bound to lay to heart more then others, the way how this Correſpondency may be procured and maintained. Now the way which the Lord hath ordain'd for the building up of the Body of Chriſt, amongſt the Saints; is that only, which in a Goſpel work, to advance the Truth, and hold forth the light of life, is to be choſen amongſt the Churches; and I ſuppoſe, that none can hope for a bleſſing upon any other way. As for this way, I finde it expreſſed by the Apoſtle to be this. That the Saints who depend upon Chriſt as upon their head, and ſo make up his Body, ſhould endevour to edifie themſelves in Love, by that which every joint ſupplieth,<note place="margin">Epheſ. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.15, 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> ac<g ref="char:EOLhyphen"/>cording to the effectual working thereof in the meaſure of every part: where two things belonging to the communion of Saints, are implied and preſuppoſed; as alſo elſ-where expreſly com<g ref="char:EOLhyphen"/>manded.</p>
+            <p>Firſt, that the Saints ſhould not look to their own things alone,<note place="margin">
+                  <hi>Phil.</hi> 2.4.</note> but every one to the things of others alſo.</p>
+            <p>Secondly, that the end for which we ſhould look to the things of others as wel as our own,<note place="margin">
+                  <hi>Heb.</hi> 10, 24.</note> ſhould be to provoke them to love and to good works. And if theſe duties be not at all minded, upon a true ſpiritual and Goſpel account it is evident, that the main and fundamental rules of Goſpel-communion is wholly neglected: therefore ſuch as in the midſt of theſe diſtra<g ref="char:EOLhyphen"/>cted courſes of men in the World; deſire to appear Saints: and
+<pb n="2" facs="tcp:2270:2"/>
+               <!-- PDF PAGE 2 -->ſhine as lights, ought conſcionably to lay to heart; what in this preſent Juncture of time,<note place="margin">The Queſtion.</note> ſhould be done by us in conformity to this Rule; namely, what the Goſpel way and manner of proceed<g ref="char:EOLhyphen"/>ing, ſhould be in our preſent caſe, to provoke the Saints at Home and abroad to love and good works.</p>
+            <p>To anſwer this Queſtion, without preſuming to preſcribe any thing to others I ſhall humbly ſuggeſt that which may be without Prejudice taken into conſideration by all,<note place="margin">The Anſwer.</note> and be made uſe of by thoſe who are in places, as God ſhall direct their ſpirits, and give them opportunity.</p>
+            <p>Let it then be thought upon whether the Leaders of our Pub<g ref="char:EOLhyphen"/>lick Affairs, both in ſpiritual and humane wayes, ſuch as offer themſelves up unto Chriſt, ſhould not think it a part of their du<g ref="char:EOLhyphen"/>ty to encourage thoſe, who holding the foundations of Faith and Obedience, make Profeſſion of the Ordinances of Chriſt; to own one another in that whereunto they have attain'd: and to aſſo<g ref="char:EOLhyphen"/>ciate one with another ſo far as they are come, to walk by the ſame Rule, for mutual Edification; notwithſtanding ſome diffe<g ref="char:EOLhyphen"/>rences which may be ſtill found amongſt them, <hi>in extra</hi> funda<g ref="char:EOLhyphen"/>mental matters, according to the Apoſtles advice, <hi>Philip.</hi> 3.15, 16.</p>
+            <p>And becauſe this Aſſociation ought not to be the effect of a a Magiſtratical Power, but ſhould proceed from the Principles of holy communion, according to the effectual working in the mea<g ref="char:EOLhyphen"/>ſure of every part: that it may be the fruit of a free willing Goſpel obedience, by that which every joint ſupplieth: therefore each party ſhould be intreated by thoſe that have an intereſt in them (nor ſhould any think it below him, how great ſoever, to intreat others for Chriſts ſake in Goſpel concernments) to declare as from themſelves theſe following matters.</p>
+            <list>
+               <item>1 What agreement there is between them and other Parties profeſſing the Goſpel in this Nation? and how far they think themſelves united with them, in matters of Faith, of Worſhip, and of Diſcipline?</item>
+               <item>2 What the Goſpel Rules of mutual forbearance are, which they think themſelves bound to obſerve towards others in caſes of difference; till God give in further light, that in the mean time, the occaſions of ſtrife, of ſcandals, and of breaches may be avoided.</item>
+               <item>
+                  <pb n="3" facs="tcp:2270:2"/>
+                  <!-- PDF PAGE 2 -->
+3 What their advice is Concerning the way of Reconciling dif<g ref="char:EOLhyphen"/>ferences, and how they may build up one another in that where<g ref="char:EOLhyphen"/>unto they have attained, notwithſtanding leſſer differences; which overthrow not the foundation.</item>
+               <item>4 What courſe they would adviſe to be taken, to repreſſe the ſcandalous and diſorderly wayes, wherein ſome ſet themſelves to overthrow all the foundations, both of Church and humane Societies; by taking aw<gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible: damage" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Ordinances of Publick worſhip, and of all civill ſubject<gap reason="illegible: damage" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible: damage" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e higher Powers.</item>
+            </list>
+            <p>If each Party can be <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and obliged to declare their ſenſe freely Concerning the<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their declarations may be taken to<g ref="char:EOLhyphen"/>gether, and compared; and that wherein they ſhall be found all to agree and ſpeak the ſame thing, may be collected by it ſelf as their mutual Harmonie which the Supream Power ſhould ap<g ref="char:EOLhyphen"/>prove and Ratifie; as that which in the Publick way of the pro<g ref="char:EOLhyphen"/>feſſion they will owne and countenance with Authority; it being the Agreement of the Churches and Saints of the Nation.</p>
+            <p>Whiles this matter is in Agitation another motion may be made, by fit Agents which will be ſubordinate unto the former; and may by Gods bleſſing help it forward to be effectual to ſome good purpoſe; which is. <hi>That the Chief leading men of the Orthodox Parties ſhould be induced to declare two things.</hi>
+            </p>
+            <list>
+               <item>1 Firſt, what the Relation is wherein they deſire to ſtand to<g ref="char:EOLhyphen"/>wards forreign Proteſtant Churches: and how farre they doe owne them as Brethren in Chriſt?</item>
+               <item>2 What Concurrence and Correſpondency, they are willing to maintain with them for a co<g ref="char:cmbAbbrStroke">̄</g>mon Goſpel intereſt, w<hi rend="sup">ch</hi> is the Truth of the holy Profeſſion, that it may be with one lip and ſhoulder, held forth unto the world againſt the common enemies thereof.</item>
+            </list>
+            <p>If a Declaration conteining theſe two things can be obteined, from the leading Miniſters of the Churches, as a conſequence of the Publick Declarations which the State hath put forth former<g ref="char:EOLhyphen"/>ly to this effect: then an Agent might be employed towards the Forreign Churches, who ſhould be inſtructed and enabled to ac<g ref="char:EOLhyphen"/>quaint them with theſe following matters.</p>
+            <list>
+               <item>1 What the true ſtate and juſtice of our Cauſe and proceed<g ref="char:EOLhyphen"/>ing hath been hitherto, againſt the Enemies of our Civil and Re<g ref="char:EOLhyphen"/>ligious Liberties.</item>
+               <item>
+                  <pb n="4" facs="tcp:2270:3"/>
+                  <!-- PDF PAGE 3 -->
+2 What our deſires and inclinations are to concur with the Godly Parties abroad in the common intereſt of Religion, and upon what grounds we are now moved to make this motion unto them.</item>
+               <item>3 What the means are by which our concurrence and corre<g ref="char:EOLhyphen"/>ſpondency with them may be entertained for the propagating of the Truth and common ſafety.</item>
+            </list>
+            <p>And whether our Agreement with <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> United Provinces take effect or not, I conceive, the End <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll be of great uſe: not onely for our own ſtrength, by th<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of our ſpirits at home; but for the gaining of the Prayer <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffections of the Godly Party abroad: and for the vindication of our former Proceedings againſt the Reproches of malicious Adverſaries, which have diſ<g ref="char:EOLhyphen"/>credited us abroad; &amp; for the ingratiating of our future underta<g ref="char:EOLhyphen"/>kings: wherein we may be led forth by the good hand of God, to advance the Kingdome of Jeſus Chriſt amongſt the Neigh<g ref="char:EOLhyphen"/>bour Nations. But if no ſuch Endevours be ſet afoot; it is very evident to me, that we ſhall not onely be wekened, and more and more divided at home, but be oppoſed and lookt upon as Ene<g ref="char:EOLhyphen"/>mies, by all the Profeſſors of the Goſpel in Forreign Parts, which I would not feare much; if it ſhould not come upon us by our own default, and through the neglect of a duty which God requires of us and which wee are engaged to performe, both by the Rules of the Goſpel, and by our owne ſolemn Profeſſions; in the face of all the Churches and of the whole world: which to make good according to my ability, and for the diſcharge of my conſcience that I may not be found guilty of neglecting my Uowes, I doe offer in all humilitie theſe ſuggeſtions; and as a Solicitor of Pub<g ref="char:EOLhyphen"/>lick Goſpel duties towards the Churches, ſhall Remaine a Ser<g ref="char:EOLhyphen"/>vant thereof in Chriſt.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:2270:3"/>
+            <!-- PDF PAGE 3 -->
+         </div>
+      </body>
+   </text>
+</TEI>
